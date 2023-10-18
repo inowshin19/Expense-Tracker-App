@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\Final_Project-20161211T012420Z\Final_Project\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\AndroidStudioProjects\Final_Project-20161211T012420Z\Final_Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_573095b4220712d415eb7be5756e83bcc13e5617\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Final_Project-20161211T012420Z\Final_Project\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\AndroidStudioProjects\Final_Project-20161211T012420Z\Final_Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_e477cffb75e5c734ba49fe56a88ce737a3c84126\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Final_Project-20161211T012420Z\Final_Project\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\AndroidStudioProjects\Final_Project-20161211T012420Z\Final_Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_6c322c4bc3be49ae357d0816bbd94a356c6cc238\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="D:\AndroidStudioProjects\Final_Project-20161211T012420Z\Final_Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_abc33a735cd8a6b9d4ed9ae1cef7a33cf15d5b7a\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Final_Project-20161211T012420Z\Final_Project\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a7fba1fc9b869d2f36a16f2f0a761fa3b98892d9">
+        <dex dex="D:\AndroidStudioProjects\Final_Project-20161211T012420Z\Final_Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_280afd3bf88191041ab471d96512eb84c6acfb53\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Final_Project-20161211T012420Z\Final_Project\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="981bab3ddb19b7679fda248027f22960bf4f76a5">
+        <dex dex="D:\AndroidStudioProjects\Final_Project-20161211T012420Z\Final_Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d1efbadbebb34f2775e9642afae7079ecf06925d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\AndroidStudioProjects\Final_Project-20161211T012420Z\Final_Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_8b571364c1229a5ecc4fef863acb773b0c466b91\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Final_Project-20161211T012420Z\Final_Project\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\AndroidStudioProjects\Final_Project-20161211T012420Z\Final_Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_7ecfaf1f7fc03bc04bca1360d9e59a503bf0bb48\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Final_Project-20161211T012420Z\Final_Project\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\AndroidStudioProjects\Final_Project-20161211T012420Z\Final_Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_e6505dccd1f4181c71352fcf53cd5938cc7a6896\classes.dex" />
+    </item>
+
+</items>

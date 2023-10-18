@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.user.final_project"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/new_icon"
+        android:label="Accounts"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.user.final_project.MainActivity" />
+        <activity android:name="com.example.user.final_project.SpentActivity" />
+        <activity android:name="com.example.user.final_project.EarnedActivity" />
+        <activity android:name="com.example.user.final_project.CheckActivity" />
+        <activity android:name="com.example.user.final_project.AlarmActivity" />
+        <activity android:name="com.example.user.final_project.SignupActivity" >
+        </activity>
+        <activity android:name="com.example.user.final_project.SignInActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
